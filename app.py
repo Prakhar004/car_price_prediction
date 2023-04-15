@@ -10,7 +10,7 @@ def Home():
 
 
 df = pd.read_csv('car data.csv')
-df['Car_age'] = 2020-df['Year']
+df['Car_age'] = 2023-df['Year']
 df.drop(labels='Year',axis=1,inplace=True)
 df = df.drop(labels='Car_Name', axis=1)
 clean_data = pd.get_dummies(df,drop_first=True)
