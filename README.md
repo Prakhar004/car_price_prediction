@@ -1,7 +1,6 @@
 # Car Price Prediction
 Deployed here -> 
 ## Predicting the Price of Used Cars
-*On Car Dekho Dataset*<br>
 
 In this Project, we are going to predict the Price of Used Cars using various features like Present_Price, Selling_Price, Kms_Driven, Fuel_Type, Year etc. The data used in this project was downloaded from Kaggle.
 
